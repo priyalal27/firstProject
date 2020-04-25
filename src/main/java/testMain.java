@@ -6,7 +6,7 @@ public class testMain {
 
         AnotherClass.m1();
 
-
+        NewBranchClass.branch_m1();
 
         System.out.println("2nd developer");
 
